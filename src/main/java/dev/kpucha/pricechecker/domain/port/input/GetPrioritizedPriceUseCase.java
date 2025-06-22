@@ -17,7 +17,7 @@ public interface GetPrioritizedPriceUseCase {
      * Retrieves the price with the highest priority for a given product and brand
      * at a specific application date.
      * 
-     * @param applicationDate the date and time when the price is being checked
+     * @param applicationDate the date and time for being checked
      * @param productId       the ID of the product
      * @param brandId         the ID of the brand
      * @return the price for the given parameters, or null if no price is found
