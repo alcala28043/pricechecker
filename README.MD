@@ -33,15 +33,15 @@ Swagger UI: `http://localhost:8080/swagger-ui/index.html`
 
 Health check and metrics available at:
 
-- [GET] `/actuator/health`
+`http://localhost:8080/actuator/health`
 
-- [GET] `/actuator/metrics`
+`http://localhost:8080/actuator/metrics`
 
-- [GET] `/actuator/info`
+`http://localhost:8080/actuator/info`
 
 All actuator endpoints are exposed under:
 
-- [GET] `/actuator`
+`http://localhost:8080/actuator`
 
 ---
 
