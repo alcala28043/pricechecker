@@ -39,7 +39,7 @@ public class PriceRestControllerTest {
     private ObjectMapper objectMapper;
 
     /**
-     * Tests the retrieval of prioritized prices at 10 AM on June 14th.
+     * Tests the retrieval of prioritized prices at 10 AM on June 14th 2020.
      */
     @Test
     void test1_at_10am_on_14th() throws Exception {
@@ -57,7 +57,7 @@ public class PriceRestControllerTest {
     }
 
     /**
-     * Tests the retrieval of prioritized prices at 4 PM on June 14th.
+     * Tests the retrieval of prioritized prices at 4 PM on June 14th 2020.
      * Verifies that the correct price list and price are returned.
      * @throws Exception
      */
@@ -77,7 +77,7 @@ public class PriceRestControllerTest {
     }
 
     /**
-     * Tests the retrieval of prioritized prices at 9 PM on June 14th.
+     * Tests the retrieval of prioritized prices at 9 PM on June 14th 2020.
      * Verifies that the correct price list and price are returned.
      * @throws Exception
      */
@@ -97,7 +97,7 @@ public class PriceRestControllerTest {
     }
 
     /**
-     * Tests the retrieval of prioritized prices at 10 AM on June 15th.
+     * Tests the retrieval of prioritized prices at 10 AM on June 15th 2020.
      * Verifies that the correct price list and price are returned.
      * @throws Exception
      */
@@ -117,7 +117,7 @@ public class PriceRestControllerTest {
     }
 
     /**
-     * Tests the retrieval of prioritized prices at 10 PM on June 16th.
+     * Tests the retrieval of prioritized prices at 10 PM on June 16th 2020.
      * Verifies that the correct price list and price are returned.
      * @throws Exception
      */
